@@ -4,7 +4,7 @@
 O projeto tem como objetivo atestar os conhecimentos técnicos obtidos na disciplina de Sistemas Embarcados, nos quais será utilizado o microcontrolador ESP32 para o  controle da temperatura da água, bem como o seu nível em uma caixa d´água.
 
 ## Diagrama da aplicação 🪛
-![](https://i.ibb.co/bJHz7BC/Diagrama-Controlador-Temp-Da-Agua.png)
+![](https://i.ibb.co/FJH5JN6/Diagrama-Controlador-Temp-Da-Agua.png)
 
 ## 📌 Funcionalidades do sistema:
 - Medir a temperatura da água 🌡️
@@ -16,7 +16,7 @@ O projeto tem como objetivo atestar os conhecimentos técnicos obtidos na discip
 ## 🔌 Tecnologias:
 - C (Linguagem de programação);
 - ESP-IDF (Framework);
-- Esp wroom 32;
+- ESP WROOM 32;
 - Fonte de alimentação;
 - Bomba d’água;
 - Fios;
