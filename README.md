@@ -1,4 +1,4 @@
-# Controlador de nível e temperatura da água de uma caixa d´água 💧🌡️
+# Controlador do nível e da temperatura da água de uma caixa d´água 💧🌡️
 
 ## Sobre o projeto:
 O projeto tem como objetivo atestar os conhecimentos técnicos obtidos na disciplina de Sistemas Embarcados, nos quais será utilizado o microcontrolador ESP32 para o  controle da temperatura da água, bem como o seu nível em uma caixa d´água.
@@ -28,4 +28,4 @@ O projeto tem como objetivo atestar os conhecimentos técnicos obtidos na discip
 - Gabriel da Silva Nascimento;
 - Lílian Honorio Teixeira;
 - Lucas Cordeiro Vieira;
-- Luiz Medeiros Neto;
+- Luiz Medeiros Neto.
