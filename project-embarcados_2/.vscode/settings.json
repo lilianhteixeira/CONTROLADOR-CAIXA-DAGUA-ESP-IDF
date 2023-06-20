@@ -18,6 +18,11 @@
         "onewire.h": "c",
         "ds18b20.h": "c",
         "ow_driver.h": "c",
-        "uart.h": "c"
-    }
+        "uart.h": "c",
+        "*.inc": "c",
+        "ets_sys.h": "c",
+        "esp_idf_lib_helpers.h": "c"
+    },
+    "idf.portWin": "COM3",
+    "idf.flashType": "UART"
 }
